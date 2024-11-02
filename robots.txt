@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epejoide.github.io/Inf/sitemap_index.txt
+Sitemap: https://epejoide.github.io/Qpm/sitemap_index.txt
+Sitemap: https://epejoide.github.io/khT/sitemap_index.txt
+Sitemap: https://epejoide.github.io/wdg/sitemap_index.txt
